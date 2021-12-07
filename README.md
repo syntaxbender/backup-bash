@@ -9,7 +9,7 @@ Works with crontab
 **Get specific(current) backup**
 > ./backup.sh -r
 
-**Next Release Targets : **
+**Next Release Targets :**
 
 - Multiple crons
 - Supports additional commands
