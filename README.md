@@ -2,6 +2,7 @@
 For school project
 
 Works with crontab
+
 **Usage**
 > ./backup.sh -e
 
